@@ -1,2 +1,0 @@
-# TurkCFG
-Türk Configler
